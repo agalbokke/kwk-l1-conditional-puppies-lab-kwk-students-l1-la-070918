@@ -1,3 +1,5 @@
+# IT DOESN'T ACTUALLY WORK
+
 # 1. Write a method called no_puppies that takes in a number of puppies as an argument. If the number of puppies is greater than zero then this method should return "No more puppies!" otherwise it should return "Well done, Rachel!"
 def no_puppies
   x = 1
